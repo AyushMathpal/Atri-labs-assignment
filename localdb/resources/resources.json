@@ -1,0 +1,108 @@
+[
+  {
+    "str": " @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=DM+Sans:wght@400;500;700&family=Merriweather&family=Montserrat:wght@300;400;800&family=Sacramento&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Cormorant Garamond",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        },
+        {
+          "fontFamily": "Merriweather",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 800
+        },
+        {
+          "fontFamily": "Sacramento",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": " @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=DM+Sans:wght@400;500;700&family=Merriweather&family=Montserrat:wght@300;400;800&family=Sacramento&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Cormorant Garamond",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "DM Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        },
+        {
+          "fontFamily": "Merriweather",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Montserrat",
+          "fontStyle": "normal",
+          "fontWeight": 800
+        },
+        {
+          "fontFamily": "Sacramento",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]

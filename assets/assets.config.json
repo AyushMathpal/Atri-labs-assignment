@@ -1,0 +1,128 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger-image.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger-image.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger-image.jpg": {
+    "mime": "image/jpeg"
+  },
+  "brand1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "brand1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "aboutus-burger.jpg": {
+    "mime": "image/jpeg"
+  },
+  "icon1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "aboutus-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div-5-img.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div9-image1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div9-image2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div10-image3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div10-image4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div10-image5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "div10-image6.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "star-bottomdiv.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow-left.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow-right.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger-div8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fries-div8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "nuggets-div8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "cake-div8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger-2-div8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "main-div3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks-div3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "dessertsdiv3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  },
+  "s.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "f.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "p.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "i.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "b.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "e.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "r.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "PROFILE.jpg": {
+    "mime": "image/jpeg"
+  }
+}
